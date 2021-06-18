@@ -1,0 +1,117 @@
+ELTA體育1,tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb
+ELTA體育1,tvbus://6KhXj8xz99EuGM9rd2eDLTdMpPh4TH6ZumiQ1x4ehChL1KmSQmqDezSjQMq5C
+ELTA體育1,tvbus://8kv3HHJ95f9f8Wm9DYtv2bXXztieEEhXabQH2q7uVqbsG6Mg4A
+ELTA體育1,rtmp://59.124.75.130/sat/md011
+ELTA體育1,p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA體育1,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5
+ELTA體育2,tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb
+ELTA體育2,tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7
+ELTA體育2,tvbus://7EsoS5HVtrc5JCnFj9Rg2GvZh4Ghi31LcYBm6v8z1gzzsb1nfM
+ELTA體育2,p2p://fccseuro.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
+ELTA體育2,p2p://fccsovh.pvbox.live:18912/5b3c4f9d000af1fc542019dd7702f547
+ELTA體育3,tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm
+ELTA體育3,tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
+ELTA體育3,tvbus://8kLevnKMiQQAQkf3AUtTcxusFx7ucoMhHvqe5NLwSn561zvUvH
+ELTA體育3,p2p://fccseuro.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
+ELTA體育3,p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f122dd8a5d154bcf87a
+緯來體育,tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2
+緯來體育,rtmp://59.124.75.130/sat/tv721
+緯來體育,rtmp://59.124.75.130:1935/sat/tv721
+緯來體育,tvbus://6Zc9RRLhY8hh38HmQXQHgxrsffsw6nRwvfFJLWvPBBhRG36nf9X2bYQAoazxA
+緯來體育,tvbus://8jNwKwE7S8rY1xiorwBj29qqaQnR4BW3gg1LXym3pbYRBY3uyH
+緯來體育,p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+緯來體育,p2p://fccsovh.pvbox.live:18912/5c2dd76e00049e333b9b846b79e65ed3
+FOX_SPORTS_1,tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
+FOX_SPORTS_1,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOX_SPORTS_1,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+FOX_SPORTS_2,tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
+FOX_SPORTS_2,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOX_SPORTS_2,tvbus://6DSeFGRJ9KHbMBWrATvLcTQ6L5ruVRapkZZdZNkNcs8eqCjJvs1cQ6D9XW5vn
+FOX_SPORTS_2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+FOX_SPORTS_3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
+FOX_SPORTS_3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+FOX_SPORTS_3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+ELEVEN體育1,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
+ELEVEN體育1,p2p://fccseuro.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+ELEVEN體育1,p2p://fccsovh.pvbox.live:18912/5b13f6f00009f89b58f0943471333bcc
+ELEVEN體育2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
+ELEVEN體育2,tvbus://5ieLy6Bs8rBH2rWXWF1aiFCpgMC3vzsKY8dD7FKwSkFreqYcb6rD5dCrXhdwL
+ELEVEN體育2,p2p://fccseuro.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+ELEVEN體育2,p2p://fccsovh.pvbox.live:18912/5b3c4f9c000c2314627ef59a33122a3e
+Eurosp1,tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
+Eurosp1,tvbus://6La1RxJGFKLcZbbDfNJBwi4oc6TRw5AzNSLFEz4oWP6TrTaYvXd9tK7R1eCnk
+Eurosp1 GCN,p2p://fccseuro.pvbox.live:18912/5bee5497000e605519e1f74329841f9c
+Eurosp1 GCN,p2p://fccsovh.pvbox.live:18912/5bee5497000e605519e1f74329841f9c
+Eurosp2,tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
+Eurosp2,p2p://fccseuro.pvbox.live:18912/5bee51c80006548a612b9eeed2e2ace0
+Eurosp2,p2p://fccsovh.pvbox.live:18912/5bee51c80006548a612b9eeed2e2ace0
+Eurosp2,p2p://fccseuro.pvbox.live:18912/5bee4eb700049db173aa827bc914924d
+Eurosp2,p2p://fccsovh.pvbox.live:18912/5bee4eb700049db173aa827bc914924d
+EurospNews,p2p://fccseuro.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
+EurospNews,p2p://fccsovh.pvbox.live:18912/5bee549b0004e9ee19e204725b7a0321
+WWE Network,tvbus://69jvf5kMznUvkAByoJzjszmeEKiXzzgP1JXWLHUqwH9DZJUEqxQ2NbpwzyvE3
+WWE Network,tvbus://5YP9xv3ubNErPq5yfLSxm8ezWqntJMJPGDzWJcXzLk2vNDph9GJRNw8KgfrP2
+WWE Network,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+WWE Network,tvbus://8QFpRehbtGF6gJXcsvAJBFvq5E35euN2we1iTfW4tb7MW2K6D7
+WWE Network,p2p://fccsovh.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45
+WWE Network,p2p://fccseuro.pvbox.live:18912/5ee9c935000d41056d22ffba2be96c45
+WWE Superslam,tvbus://6A4sR3i8udw9aXezg9Ej3UKztcoYrSfirdS2Za2jh3S5pya9orQbDAjaw7FYq
+WWE Superslam,http://47.242.54.220/daili/ce50.php?gun=3&id=wwe_pye
+高爾夫美國,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
+高爾夫美國,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+高爾夫美國,tvbus://7Kmks6vpe7masW9nAHGaxEWjvowEWWaBbmdV79iDVHb8Rukfa5
+博斯運動1,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
+
+博斯運動2,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
+博斯運動2,tvbus://6iXBJy6eexqWZPKSYe3khNf8zKQFQpPpwmedAKEJZo9YoBdE7m7Cob8tpTPU3
+博斯運動2,p2p://fccseuro.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
+博斯運動2,p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd644ffd30c719c308f
+博斯運動2,p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
+博斯運動2,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849
+博斯高球1,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
+博斯高球1,p2p://fccseuro.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
+博斯高球1,p2p://fccsovh.pvbox.live:18912/5bdbf395000ad5cb2607f86ed2c7a380
+博斯高球2,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+博斯高球2,tvbus://5t1Uomh2j6K968yHGVrUB1jbtdaWNd5N18rzukGPteDboYDPeT4WFtwyA1QWg
+博斯高球2,p2p://fccseuro.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
+博斯高球2,p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66ae0878955c9b580a
+博斯網球,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
+
+博斯無限 ,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
+博斯魅力,rtmp://59.124.75.130/sat/md042
+Espn,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
+Fight_Sport,tvbus://5bPPQaxBZozxSDVUDR32yxFaKRyMCuFfDwF4e4bkbXgUkzMcgLAvCxtCwVRSG
+NBA,tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
+NBA,tvbus://7y921EbSPfZmvERbf7UWd88LtSjJVJVgNjEGFPY2GtWEedtceX
+MLB,tvbus://5mchETxU6eT6jS4Hckoyfb5X5XnptFFq9Xb6nsVPkp2EEQBnRw5E4m8MNsVJV
+
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Z頻道,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
+Z頻道,tvbus://76QSuKAXb42jbKAecjA8qdaSN3SqC59akMfpCNRutsMM2yJmSb
+Z頻道,p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+Z頻道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc
+
+J SPORTS 2,tvbus://5pQD24S4466A139yM6y3fPrBkPdV7chyhEJ8y4bXbX2Qv9JEGHAdMHRCx3CDE 
+J SPORTS 3,tvbus://6dADDkTGu2oiwREWcP93w5nGscSVfZjaXEBA5dAC92XEevHjPSqYrY3XL6ST4 
+J SPORTS 4,tvbus://5xJS5QV17qfubUQRDmcme8wzU8EAigZtZeFsDgxcMKwxDVSztergMkL7PwGxz 
+Espn,tvbus://6dAuxZcZxALaxKnVTc5kHAGSbKxj7pr87YivXDFtkftPtv2LSKktZEo98cjE1
+NBC_Sports_Network,tvbus://5vbCuMUqDHn8rYmXTccotzGoBhrCuiubohdv2JTatky3z8B4WhsikSeF3j22y
+SKYSPORTS F1,tvbus://5r39vTXth3s7boCw31vQ6UedJdNKnvyRDMNVfXouSLDQWNGKkVoH9vWU7FGcV
+SKYSPORTS F1,p2p://fccsovh.pvbox.live:18912/5b2e22ac0000d4b061c05d994a3ba15a
+SKYSPORTS F1,p2p://fccseuro.pvbox.live:18912/5b2e22ac0000d4b061c05d994a3ba15a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
